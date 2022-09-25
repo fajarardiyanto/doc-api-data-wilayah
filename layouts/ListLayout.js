@@ -17,9 +17,7 @@ export default function ListLayout({ dataProv, title }) {
           </h1>
         </div>
         <ul>
-          <div className="mt-4 space-y-3 xl:col-span-3">
-
-          </div>
+          <div className="mt-4 space-y-3 xl:col-span-3">List</div>
         </ul>
       </div>
     </>
